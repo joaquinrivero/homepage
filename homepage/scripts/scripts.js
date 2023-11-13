@@ -13,7 +13,7 @@
 import { setLibs } from './utils.js';
 
 const ACOM_SIGNED_IN_STATUS = 'acomsis';
-const STYLES = '';
+const STYLES = 'styles/styles.css';
 const LIBS = '/libs';
 const locales = {
   // Americas
